@@ -136,7 +136,6 @@ python-json-logger
 pytweening
 pytz
 PyWavelets
-pywin32
 pywinpty
 PyYAML
 pyzmq
